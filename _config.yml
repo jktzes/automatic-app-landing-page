@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : World-class Reference
-    description                           : Look up words with Oxford or Webster.
+  - title                                 : Use It Anywhere
+    description                           : Look up any word, in any website.
     fontawesome_icon_name                 : atlas
     
-  - title                                 : All You Can Lookup
-    description                           : Read any website you like, up you look.
-    fontawesome_icon_name                 : medal 
+  - title                                 : Know Instantly
+    description                           : Look up with only 1 click.
+    fontawesome_icon_name                 : bolt 
 
-  - title                                 : Short Definitions
-    description                           : Need a pointer? Get a pointer.
+  - title                                 : Non-blocking Display
+    description                           : Dictionary that does not interrupt your reading flow.
     fontawesome_icon_name                 : lightbulb
 
   # - title                                 : Automatic Icon and Metadata
